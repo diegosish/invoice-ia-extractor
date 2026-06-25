@@ -332,6 +332,5 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for details.
 
 **If this project helped you, please consider giving it a ⭐!**
 
-Built with ❤️ Lyana.
 
 </div>
